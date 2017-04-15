@@ -1,0 +1,13 @@
+{
+  "name": "node_rest_api_hackernoon",
+  "version": "1.0.0",
+  "description": "Hackernoon basic node REST API Tutorial - https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09",
+  "main": "app.js",
+  "author": "Bharat Poptwani <b4bharat.available@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4"
+  }
+}
